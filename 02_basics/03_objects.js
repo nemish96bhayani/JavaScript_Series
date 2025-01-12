@@ -16,8 +16,8 @@ const JsUser = {
   lastLoginDays: ["Monday", "Staurday"],
 };
 
-// console.log(JsUser.email);
-// console.log(JsUser["email"]);
+console.log(JsUser.email);
+console.log(JsUser["email"]);
 // console.log(JsUser["full name"]);
 // console.log(JsUser[mySym]);
 

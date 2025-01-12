@@ -84,8 +84,8 @@ const { courseInstructor: instructor } = course;
 // console.log(courseInstructor);
 console.log(instructor);
 
-{
-  "name": "Nemish",
-  "course": "JavaScript",
-  "price": "free",
-}
+// {
+//   "name": "Nemish";
+//   "course": "JavaScript";
+//   "price": "free";
+// }

@@ -10,7 +10,7 @@ const dc_heros = ["superman", "flash", "batman"];
 // console.log(allHeros);
 
 const all_new_heros = [...marvel_heros, ...dc_heros]; //spread operator
-// console.log(all_new_heros);
+console.log(all_new_heros);
 
 const anotherArray = [1, 2, 3, [4, 5, 6], 7, [6, 7, [4, 5]]];
 

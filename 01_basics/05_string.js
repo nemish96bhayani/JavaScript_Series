@@ -1,5 +1,6 @@
 const name = "Nemish";
 const repoCount = 50;
+// console.log(name);
 
 // console.log(name + repoCount + " Value");
 
@@ -39,3 +40,4 @@ console.log(url.replace("%20", "-"));
 console.log(url.includes("sundar"));
 
 console.log(gameName.split("-"));
+console.log(...name);
